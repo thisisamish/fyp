@@ -1,4 +1,7 @@
-# TableNet using PyTorch
+# TableNet Implementation using PyTorch in Jupyter Notebook
+This repo is forked (obviously) and my intent is only to convert this whole project into several Jupyter Notebooks. Currently, the project is distributed into weird .py files which I'm unable to properly run (I hate package management in Python).
+
+## TableNet using PyTorch
 
 In this repo, you can have an implementation of the TableNet with Pytorch
 
